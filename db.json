@@ -7,7 +7,7 @@
         "MF": "NATIONAL SEMICONDUCTOR"
       },
       "MID": "MID20272",
-      "MD": "LM2675M-5 is Step Down Switching Regulator with High Efficiency and wide input voltage of 8V to 40V and  fixed output voltage of 5V. || Design Ref: TBA || Required MIDs: TBA.",
+      "MD": "LM2675M-5 is Step Down Switching Regulator with High Efficiency and wide input voltage of 8V to 40V and  fixed output voltage of 5V. || Design Ref: TBA || Required MIDs: MID20275 (D145).",
       "MT": "Electronic Comp.",
       "MQNT": 4,
       "MQATG": "#CLASS1",
